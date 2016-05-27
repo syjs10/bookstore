@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=/home/js/eclipse/apache-tomcat-7.0.69/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/home/js/eclipse/apache-tomcat-7.0.69/conf/server.xml
+tomcatDir=/home/js/eclipse/apache-tomcat-7.0.69
+tomcatVersion=tomcatV7

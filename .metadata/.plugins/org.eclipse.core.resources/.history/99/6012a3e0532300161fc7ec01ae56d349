@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CommonlyTag">
+        <property name="context-root" value="CommonlyTag"/>
+        <property name="java-output-path" value="/CommonlyTag/build/classes"/>
+    </wb-module>
+</project-modules>

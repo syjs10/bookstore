@@ -1,0 +1,22 @@
+header{
+	wight: 100%;
+	text-align: center;
+	font-size: 2em;
+	font-weight: blod;
+	text-shadow: 5px 1px 5px #fff;
+}
+div{
+	position:absolute;
+	widht: 99.9%;
+	height: 280px;
+}
+.head{
+	background-color: #ccc;
+	font-size: 3em;
+}
+.register{
+	left: 30%;
+}
+.login{
+	right: 30%;
+}

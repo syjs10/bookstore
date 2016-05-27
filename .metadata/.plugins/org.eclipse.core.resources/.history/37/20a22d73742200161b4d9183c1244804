@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html5>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>用户注册</title>
+</head>
+<body>
+	<form>
+		<header>用户注册</header>
+		<p>
+			<lable>用户名：</lable><input></input>
+		</p>
+		<p>
+			<lable>密&nbsp;&nbsp;&nbsp;&nbsp;码：</lable><input></input>
+		</p>
+		<p>
+			<lable>验&nbsp;&nbsp;&nbsp;&nbsp;证：</lable><input></input>
+		</p>
+		<p>
+			<lable>邮&nbsp;&nbsp;&nbsp;&nbsp;箱：</lable><input></input>
+		</p>
+		<button value = "注　　册"　／>
+	</form>
+</body>
+</html>
